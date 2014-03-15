@@ -783,7 +783,7 @@ function getSelectedTabIndex() {
 	};
 	
 	var settings = {
-		 'interval'		 : 100
+		 'interval'		 : 500
 		,'loading_elem' : 'spinner'
 		,'num'					: 5
 		,'sort'				 : 'desc'
